@@ -1,0 +1,28 @@
+#
+# Configuration file for CS6378 Project #1
+# (Spring 2017)
+#
+# Number of nodes
+6 	
+
+# Here we list the individual nodes
+# The node numbers are implicitly designated by order in the file.
+# ie, the first node listed is node 1, etc.
+#
+
+# Format is:
+# Hostname			Port
+0 dc05.utdallas.edu		3332
+1 dc06.utdallas.edu		3335
+2 dc07.utdallas.edu		3335
+3 dc08.utdallas.edu		3335
+4 dc09.utdallas.edu		3336
+5 dc10.utdallas.edu		3335
+
+# Node	1-Hop Neighbors
+  0 	1 2 3 # test sample
+  1 	0 4
+  2 	0 4 5
+  3 	0 5
+  4 	1 2
+  5 	2 3
