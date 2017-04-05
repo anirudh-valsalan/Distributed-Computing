@@ -1,0 +1,15 @@
+6 4 10 500 100 300
+
+0 dc01.utdallas.edu 3000
+1 dc02.utdallas.edu 3002
+2 dc03.utdallas.edu 3003
+3 dc04.utdallas.edu 3004
+4 dc05.utdallas.edu 3005
+5 dc06.utdallas.edu 3006
+
+1 2 3 4 5 # neighbours of node 0
+0 2 3 4 5 # neighbours of node 1
+0 1 3 4 5 # neighbours of node 2
+0 1 2 4 5 # neighbours of node 3
+0 1 2 3 5 # neighbours of node 4
+0 1 2 3 4 # neighbours of node 5

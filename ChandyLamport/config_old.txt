@@ -1,0 +1,22 @@
+9 1 10 500 200 500
+
+0 dc05.utdallas.edu		33332
+1 dc06.utdallas.edu		33335
+2 dc07.utdallas.edu		33335
+3 dc08.utdallas.edu		33335
+4 dc09.utdallas.edu		33336
+5 dc10.utdallas.edu		33335
+6 dc11.utdallas.edu		33356
+7 dc12.utdallas.edu		33411
+8 dc13.utdallas.edu		33667
+
+
+1 2 7 # neighbours of node 0
+0 3 # neighbours of node 1
+0 3 4 # neighbours of node 2
+1 2 4 5 # neighbours of node 3
+2 3 6 8 # neighbours of node 4
+3 6 # neighbours of node 5
+4 5 7 # neighbours of node 6
+0 6 # neighbours of node 7
+4 # neighbours of node 8
