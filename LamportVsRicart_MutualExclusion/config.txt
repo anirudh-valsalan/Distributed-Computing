@@ -1,0 +1,14 @@
+10 2000 1000 50
+
+0 dc01.utdallas.edu 12343
+1 dc02.utdallas.edu 12353
+2 dc03.utdallas.edu 12363
+3 dc04.utdallas.edu 12373
+4 dc05.utdallas.edu 12385
+5 dc06.utdallas.edu 12773
+6 dc07.utdallas.edu 12312
+7 dc08.utdallas.edu 12322
+8 dc09.utdallas.edu 12333
+9 dc10.utdallas.edu 12775
+
+
